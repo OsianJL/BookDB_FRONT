@@ -50,12 +50,12 @@ Ensure you have the following installed on your local machine:
 
 2. In another terminal, run the app on an emulator or a physical device:
 
-   - For Android:
+   - For Android (run from BookDB_FRONT/BookApp):
      ```sh
      npx react-native run-android
      ```
 
-   - For iOS:
+   - For iOS (run from BookDB_FRONT/BookApp):
      ```sh
      npx react-native run-ios
      ```
