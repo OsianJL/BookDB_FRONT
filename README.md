@@ -2,6 +2,8 @@
 
 This project is a mobile application built with React Native for managing a collection of books. The app interacts with a backend API to perform CRUD operations on books stored in a Firebase Firestore database.
 
+##THE PROJECT IS INSIDE THE FILE BOOKAPP
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
