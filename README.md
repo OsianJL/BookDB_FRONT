@@ -43,7 +43,7 @@ Ensure you have the following installed on your local machine:
 
 ## Running the App
 
-1. Start the React Native development server:
+1. Start the React Native development server from BookDB_FRONT/BookApp:
    ```sh
    npx react-native start
    ```
